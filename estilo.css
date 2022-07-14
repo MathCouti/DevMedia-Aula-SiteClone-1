@@ -1,0 +1,149 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.secao{
+    margin: 0 auto;
+    
+    text-align: center;
+    font-family: Tahoma;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.paragrafo{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto; 
+    width: 980px;
+}
+.secao-logo{
+    background-color: #afddfb;
+    
+
+}
+
+.secao-logo a{
+    color: #1d1d1d;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: 2px solid #1d1d1d;
+
+}
+.secao-logo p{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.img-logo{
+    width: 150px;
+
+}
+
+h1{
+    padding-top: 40px;
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+h2{
+    color: #1c81c0;
+    font-weight: normal;
+}
+
+.img-secao-2, .img-secao-3{
+    width: 450px;
+}
+
+span{
+    font-weight: bold;
+    color: #1c81c0;
+    
+}
+
+
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto 40px;
+}
+
+.item-lista-servicos {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #fff;
+}
+
+
+.secao-servicos, .secao-contato{
+    background-color: #1d80c1;
+
+}
+
+.secao-servicos p{
+    width: 600px;
+    text-align: center;
+    font-size: 19px;
+    line-height: 40px;
+    color: white;
+
+}
+
+
+.secao-servicos span{
+    color: #fff81b;
+    font-weight: bold;
+}
+
+
+.secao-servicos h2, .secao-contato h2{
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+.secao-corretores h2{
+    font-weight: bold;
+}
+
+.secao-corretores span{
+    color: #1c81c0;
+}
+
+
+.paragrafo-secao-5{
+    color: #fff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.paragrafo-secao-5 span{
+    color: #fff81b;
+}
+
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
